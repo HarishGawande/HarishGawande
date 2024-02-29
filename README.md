@@ -1,8 +1,69 @@
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e7369626c652f616e7369626c652d69636f6e2e737667](https://github.com/HarishGawande/HarishGawande/assets/146774626/cd00165f-7aaa-4e73-a8fa-13343082ac82)# Hello, I'm HARISH GAWANDE 👋
+# Hello, I'm **HARISH GAWANDE** 👋
 
 Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen interest in Cloud & Automation. Here you'll find a mix of personal projects, contributions to open source, and more.
 
-## 🔧 Technologies & Tools ⚙️
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishGawande&theme=algolia" alt="HarishGawande" /></p>
+
+
+# 🔧 Technologies & Tools ⚙️
+<p float="left">
+  <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+  </a>
+  <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="50" /> 
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="80" />
+  </a>
+</p>
+<br>
+
+# :zap: Container Orchestration
+<p float="left">
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+</p>
+<br>
+
+# :zap: Pipelines
+<p float="left">
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+</p>
+<br>
+
+# :zap: Configuration Management 
+<p float="left">
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="140" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a>
+</p>
+<br>
+
+# :zap: Monitoring
+<p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+ </p>
 
 ## 🌱 Currently Learning
 
@@ -29,6 +90,13 @@ Thanks for visiting! Feel free to explore my repositories and get in touch.
 
 Happy coding! ✨
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=2500&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=535&lines=Thanks%2C+You're+fantastic+%3A)" alt="Typing SVG" /></a></p>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/HarishGawande/count.svg)
 
 <!---
 HarishGawande/HarishGawande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
