@@ -16,7 +16,12 @@ Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="50" /> 
   </a>
-   <a href="https://aws.amazon.com/" target="_blank" >
+</p>
+<br>
+
+# :zap: Cloud Platform
+<p float="left">
+   <a href="https://aws.amazon.com/" target="AWS_Cloud" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="80" />
   </a>
 </p>
@@ -25,10 +30,10 @@ Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen
 # :zap: Container Orchestration
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="100" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="85" />
   </a>
 </p>
 <br>
@@ -36,10 +41,10 @@ Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen
 # :zap: Pipelines
 <p float="left">
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="85" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="100" />
   </a>
 </p>
 <br>
@@ -55,13 +60,23 @@ Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen
 </p>
 <br>
 
+# :zap: Scripting
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" >
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="90" height="90"/>
+</p>
+<br>
+
 # :zap: Monitoring
 <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="70" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="70" />
   </a>
  </p>
 
@@ -93,9 +108,8 @@ Happy coding! ✨
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=2500&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=535&lines=Thanks%2C+You're+fantastic+%3A)" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=2500&pause=800&color=00FF00&background=5A56FF00&center=true&vCenter=true&width=535&lines=Thanks!+for+Visiting+%3A)" alt="Typing SVG" /></a></p>
 
-#### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/HarishGawande/count.svg)
 
 <!---
