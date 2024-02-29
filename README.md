@@ -1,4 +1,4 @@
-![image](https://github.com/HarishGawande/HarishGawande/assets/146774626/e1a3bdca-aeae-48af-bcc8-2cdd386ae33f)# Hello, I'm HARISH GAWANDE 👋
+# Hello, I'm HARISH GAWANDE 👋
 
 Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen interest in Cloud & Automation. Here you'll find a mix of personal projects, contributions to open source, and more.
 
