@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Cloud DevOps Engineer with a keen interest in Cloud & Automation. Here you'll find a mix of personal projects, contributions to open source, and more.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishGawande&theme=algolia" alt="HarishGawande" /></p>
-
 
 # 🔧 Technologies & Tools ⚙️
 <p float="left">
@@ -86,7 +84,8 @@ I'm currently focused on improving my skills in Automation & DevOps.
 
 ## 📈 GitHub Stats
 
-[![ GitHub Stats ](https://github.com/HarishGawande)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishGawande&theme=algolia" alt="HarishGawande" /></p>
+
 
 ## 🌐 Connect with Me
 
